@@ -2,11 +2,11 @@
 
 ### App Description
 HelloWorld App has 4 Total uses\n
-1."Change text Color" will change text color to teal when tapped\n
-2."Change background color" will change background color to midnight blue when tapped\n
-3."Click to change text" will change default "Hello from Aldrich" to "Andriod is Awesome"\n
-4.User can tap on "Create your own text box" to add text. User can use "Click to change custom text" to modify default text.\n
-Misc- If text field box is empty text will return "Enter your own text" Tap anywhere on screen to reset
+ 1."Change text Color" will change text color to teal when tapped
+ 2."Change background color" will change background color to midnight blue when tapped
+ 3."Click to change text" will change default "Hello from Aldrich" to "Andriod is Awesome"
+ 4.User can tap on "Create your own text box" to add text. User can use "Click to change custom text" to modify default text.
+ Misc- If text field box is empty text will return "Enter your own text" Tap anywhere on screen to reset
 
 ### App Walk-though
 
