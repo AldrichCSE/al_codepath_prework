@@ -1,7 +1,7 @@
 ## HelloWorld
 
 ### App Description
-HelloWorld App has 4 Total uses\n
+HelloWorld App has 4 Total uses:
  1."Change text Color" will change text color to teal when tapped
  2."Change background color" will change background color to midnight blue when tapped
  3."Click to change text" will change default "Hello from Aldrich" to "Andriod is Awesome"
